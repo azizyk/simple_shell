@@ -115,4 +115,3 @@ int _atoi(char *str)
                 return (-1);
         return (num);
 }
-

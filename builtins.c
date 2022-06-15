@@ -155,4 +155,3 @@ void new_unsetenv(vars_t *vars)
 	vars->env = newenv;
 	vars->status = 0;
 }
-
